@@ -10,7 +10,7 @@
 
 ---
 
-# 💫 About Me
+# About Me
 
 <img align="right" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
