@@ -18,9 +18,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=bsrikumar855-dot&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/bsrikumar855-dot?label=Followers&style=for-the-badge&color=36BCF7)](https://github.com/bsrikumar855-dot)
+<img src="https://img.shields.io/github/followers/bsrikumar855-dot?label=Followers&style=for-the-badge&color=36BCF7&labelColor=1a1a2e" alt="Followers" />
 &nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/bsrikumar855-dot?label=Stars&style=for-the-badge&color=FFD700)](https://github.com/bsrikumar855-dot)
+<img src="https://img.shields.io/github/stars/bsrikumar855-dot?label=Stars&style=for-the-badge&color=FFD700&labelColor=1a1a2e" alt="Stars" />
 
 </div>
 
@@ -124,8 +124,8 @@ me.say_hi()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bsrikumar855-dot&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bsrikumar855-dot&theme=tokyonight&hide_border=true&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bsrikumar855-dot&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&count_private=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=bsrikumar855-dot&theme=tokyonight&hide_border=true&border_radius=10" />
 
 <br/>
 
@@ -143,7 +143,7 @@ me.say_hi()
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bsrikumar855-dot&theme=tokyo-night&hide_border=true&area=true&custom_title=Shreekumar's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shreekumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bsrikumar855-dot&theme=tokyo-night&hide_border=true&area=true&custom_title=Shreekumar's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -151,17 +151,52 @@ me.say_hi()
 
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 <!--                         CONTRIBUTION SNAKE                            -->
+<!--   Snake auto-generates once you add the GitHub Action below.          -->
+<!--   Until then, a live animated grid is shown as placeholder.           -->
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
+> ⚡ **Setup required:** Add the snake GitHub Action to generate this animation.
+> Create `.github/workflows/snake.yml` in your profile repo with the content below.
+
+```yaml
+name: Generate Snake
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: bsrikumar855-dot
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+> Once set up, replace this section with:
+
+```
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bsrikumar855-dot/bsrikumar855-dot/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bsrikumar855-dot/bsrikumar855-dot/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/bsrikumar855-dot/bsrikumar855-dot/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/bsrikumar855-dot/bsrikumar855-dot/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/bsrikumar855-dot/bsrikumar855-dot/output/github-snake.svg" />
+  <img alt="github-snake"
+    src="https://raw.githubusercontent.com/bsrikumar855-dot/bsrikumar855-dot/output/github-snake.svg" />
 </picture>
+```
 
 </div>
 
@@ -175,7 +210,7 @@ me.say_hi()
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bsrikumar855-dot&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=bsrikumar855-dot&theme=tokyonight&no-frame=true&margin-w=6&row=1&column=7" alt="trophies" />
 
 </div>
 
@@ -189,8 +224,8 @@ me.say_hi()
 
 ```
 Python          ████████████████████░░   88%  ⭐ Expert
+TypeScript      ████████████████████░░   85%  🔥 Advanced
 JavaScript      ██████████████████░░░░   75%  🔥 Advanced
-TypeScript      ████████████████░░░░░░   68%  📈 Proficient
 React           ███████████████░░░░░░░   65%  🛠 Proficient
 AI/ML           █████████████████░░░░░   72%  🤖 Advanced
 System Design   ████████████░░░░░░░░░░   50%  🌱 Learning
@@ -236,9 +271,9 @@ mindmap
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bsrikumar855-dot)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreekumar-b-103922381/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsrikumar855@gmail.com)
 
 </div>
 
@@ -252,7 +287,7 @@ mindmap
 
 ### 💬 Dev Philosophy
 
-> *"Build. Ship. Learn. Repeat."*
+> *"If you want to crack the system, First Understand the system..!"*
 >
 > — Shreekumar B
 
@@ -263,10 +298,6 @@ mindmap
 </div>
 
 ---
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                         ANIMATED FOOTER                               -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
