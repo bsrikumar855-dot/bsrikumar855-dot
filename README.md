@@ -1,125 +1,65 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Shree Kumar</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:1E293B,100:334155&text=Shreekumar&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=E2E8F0" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=AI+Systems+Builder;Full+Stack+Developer;Computer+Vision+Explorer;Building+Scalable+AI+Products;UI%2FUX+Focused+Engineer" />
-
-<img src="https://komarev.com/ghpvc/?username=bsrikumar855-dot&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Builder;Python+Developer;Full-Stack+Learner;Building+GradeMIND;Powered+by+Coffee+%26+Curiosity" />
+</p>
 
 ---
 
-# About Me
+## 🚀 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-
-I am a developer focused on building intelligent systems that combine AI, automation, real-time monitoring, and modern user experiences.
-
-My interests include:
-- AI Agents & LLM Applications
-- Computer Vision Systems
-- Compliance & Monitoring Platforms
-- Developer Intelligence Tools
-- Full Stack Development
-- Modern UI/UX Engineering
-
-I enjoy transforming ideas into fast, functional, and scalable products.
+- 🎓 Computer Science Student
+- 🤖 Building AI-powered applications
+- 🧠 Interested in AI Agents, Automation & EdTech
+- 🔭 Currently working on **GradeMIND**
+- 🌱 Learning System Design & Advanced Python
 
 ---
 
-# 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 AHAL-AI
-AI-powered developer intelligence system designed for automation and intelligent workflows.
-
-</td>
-
-<td width="50%">
-
-### 🛡 PRYSM
-Continuous AI compliance and monitoring platform focused on audit intelligence and risk detection.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎨 Vidiyal UI/UX
-Modern responsive frontend project built with a strong focus on clean design and user experience.
-
-</td>
-
-<td width="50%">
-
-### 📹 CCTV Live Monitoring
-AI-assisted surveillance experimentation using computer vision and real-time monitoring concepts.
-
-</td>
-</tr>
-</table>
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,nodejs,postgresql,mysql,git,github,vscode" />
+</p>
 
 ---
 
-# 🛠 Tech Stack
+## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,git,github,vscode" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/AI%20Systems-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLM%20Applications-1E293B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Computer%20Vision-334155?style=for-the-badge" />
-<img src="https://img.shields.io/badge/UI%2FUX-475569?style=for-the-badge" />
-
-</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
+</p>
 
 ---
 
-# 📊 GitHub Analytics
+## 🏆 Featured Projects
 
-<div align="center">
+### 🎯 GradeMIND
+AI-powered answer sheet validation system.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bsrikumar855-dot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+### 🤖 AI Exam Evaluator
+Automated answer analysis and scoring platform.
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bsrikumar855-dot&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsrikumar855-dot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
+### 📈 Academic Analytics Dashboard
+Performance tracking and insights for students.
 
 ---
 
-# 📈 Contribution Graph
+## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bsrikumar855-dot&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-
-</div>
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-# 🧠 Current Focus
+## 💬 Quote
 
-```python
-while(True):
-    build()
-    learn()
-    innovate()
-    improve()
+"Build. Ship. Learn. Repeat."
+
+---
+
+## 🌐 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN)
+[Portfolio](YOUR_PORTFOLIO)
+[GitHub](https://github.com/YOUR_USERNAME)
