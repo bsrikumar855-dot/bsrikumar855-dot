@@ -40,7 +40,7 @@ class ShreeKumar:
         self.name        = "Shreekumar B"
         self.username    = "bsrikumar855-dot"
         self.location    = "India 🇮🇳"
-        self.role        = "CS Student & AI Builder"
+        self.role        = "AI&DS Student & AI Builder"
         self.currently   = "Building GradeMIND 🎯"
         self.learning    = ["System Design", "Advanced Python"]
         self.interests   = ["AI Agents", "Automation", "EdTech"]
