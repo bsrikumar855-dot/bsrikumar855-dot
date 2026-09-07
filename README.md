@@ -1,240 +1,123 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg">
+  <img alt="Shreekumar B — AI builder" src="./banner-dark.svg">
+</picture>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                       ANIMATED HEADER BANNER                          -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shreekumar%20B&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Builder%20%7C%20Python%20Dev%20%7C%20Full-Stack%20Learner&descAlignY=60&descSize=20" width="100%" />
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                          TYPING ANIMATION                             -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=Hey+there!+I'm+Shree+Kumar+%F0%9F%91%8B;I+build+AI+systems+that+ship+%F0%9F%9A%80;Creator+of+GradeMIND+%F0%9F%A7%A0;Python+%7C+TypeScript+%7C+LLMs;Build.+Ship.+Learn.+Repeat.)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                          QUICK CONNECT ROW                            -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shreekumardev.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreekumar-b-103922381/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsrikumar855@gmail.com)
-
-</div>
+AI & Data Science student in India, building AI systems that other people actually use — agents
+that read, decide and act, the backends that serve them, and the checks that stop them shipping
+something wrong. Most of my work sits somewhere between education technology, developer tooling
+and computer vision. I'd rather understand a problem properly than reach for a model first.
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                            ABOUT ME SECTION                           -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-<img align="right" alt="Coding GIF" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
-
-## 🧠 About Me
-
-```python
-class ShreeKumar:
-    def __init__(self):
-        self.name      = "Shreekumar B"
-        self.location  = "India 🇮🇳"
-        self.role      = "AI & DS Student · AI Builder"
-        self.building  = "GradeMIND — AI answer sheet validation"
-        self.learning  = ["System Design", "LLM Engineering"]
-        self.interests = ["AI Agents", "Automation", "EdTech"]
-        self.motto     = "If you want to crack the system, first understand the system."
-
-    def say_hi(self):
-        return "Thanks for dropping by — let's build something great 🚀"
-```
-
-- 🎯 **Currently building:** [GradeMIND](https://github.com/bsrikumar855-dot?tab=repositories) — an AI-powered answer sheet validation system for educators
-- 🤖 **Focus areas:** AI agents, developer tooling, and EdTech automation
-- 🌱 **Leveling up in:** system design and production-grade LLM pipelines
-- 💬 **Ask me about:** Python, FastAPI, LangChain, building with LLM APIs
-
-<br clear="both" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./capabilities-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./capabilities-light.svg">
+  <img alt="Capability map across five engineering domains" src="./capabilities-dark.svg">
+</picture>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                        FEATURED PROJECTS                              -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+### What I build
 
-## 🏆 Featured Projects
+**AI agents** — this is where most of my work lives. Not one-shot prompting: systems that
+classify what's being asked, pick the right tool, call it, and reason over what comes back
+before answering. A developer-intelligence agent that reads a codebase and automates the boring
+parts of a dev workflow, a compliance system that watches AI behaviour continuously instead of
+auditing it once, and a grading engine that has to defend every mark it gives.
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+**EdTech** — **GradeMIND** is the flagship. Handwritten answer sheets in, structured evaluation
+out, built for real classrooms rather than a demo dataset. The hard part was never the OCR; it
+was making the score explainable enough that a teacher would trust it.
 
-### 🧠 [GradeMIND](https://github.com/bsrikumar855-dot?tab=repositories)
-**AI-powered answer sheet validation system**
+**Computer vision** — OpenCV pipelines for live video and document images: handwriting
+extraction, real-time detection on CCTV feeds, and the unglamorous preprocessing that decides
+whether any of it works.
 
-Automates evaluation of handwritten answer sheets using computer vision + LLM reasoning — built for real classrooms, not demos.
+**Backends & full stack** — FastAPI and Node services, REST APIs, PostgreSQL and MySQL, React
+and TypeScript on the front. Most of what I build ships behind an endpoint someone can call.
 
-`Python` `Computer Vision` `LLMs`
+**Automation** — GitHub Actions, scheduled jobs and Python scripts doing the work I'd otherwise
+do by hand twice a week.
 
-🔥 **Flagship · In active development**
+### Running right now
 
-</td>
-<td width="50%" valign="top">
+**GradeMIND** — AI-powered answer sheet validation for educators. A scanned script goes through
+vision and OCR, gets grounded against the actual rubric, is reasoned over by a model, and then
+has to clear a validator before any mark is released. The interesting part is the failure path:
+an answer the system can't justify against the rubric doesn't get a silent guess, it gets
+flagged for the teacher. Grading that can't explain itself is worse than no grading at all.
 
-### 🛡️ [PRYSM](https://github.com/bsrikumar855-dot/PRYSM---Continuous-AI-Compilance-Operating-System)
-**Continuous AI Compliance Operating System**
-
-A framework for monitoring and enforcing compliance in AI systems, continuously rather than as a one-time audit.
-
-`TypeScript` `AI Governance`
-
-⭐ 2 stars
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 [AHAL-V2](https://github.com/bsrikumar855-dot/AHAL-V2)
-**AI-Powered Developer Intelligence System**
-
-Second-generation developer intelligence platform — agents that understand codebases and automate dev workflows.
-
-`Python` `LLM Agents`
-
-⭐ 2 stars · Successor to [AHAL-AI](https://github.com/bsrikumar855-dot/AHAL-AI)
-
-</td>
-<td width="50%" valign="top">
-
-### 📹 [CCTV Live Monitoring](https://github.com/bsrikumar855-dot/CCTV-live-Monitoring)
-**Real-time CCTV monitoring with AI detection**
-
-Live video feed analysis with AI-based detection for security monitoring use cases.
-
-`Python` `OpenCV` `Computer Vision`
-
-⭐ 1 star
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-**🎨 Also:** [Vidiyal UI/UX](https://github.com/bsrikumar855-dot/Vidiyal-UI-UX) — a modern design system built with TypeScript & React
-
-</div>
+In active development · `Python` · computer vision + LLM reasoning · built for classrooms
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                          TECH STACK SECTION                           -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+### Selected work
 
-## 🛠️ Tech Stack
+Five, on purpose — not a repo index. Each one exists to prove something different.
 
-<div align="center">
+| | |
+|---|---|
+| **GradeMIND** | AI answer sheet validation for educators. Handwriting to structured evaluation, with a rubric-grounded validator between the model and the mark. Flagship, in active development. |
+| **[PRYSM](https://github.com/bsrikumar855-dot/PRYSM---Continuous-AI-Compilance-Operating-System)** | A continuous AI compliance operating system. Most compliance is a one-time audit that goes stale the day after it passes; PRYSM treats it as a running process — monitoring AI behaviour continuously and enforcing policy while the system is live, not after. TypeScript. |
+| **[AHAL-V2](https://github.com/bsrikumar855-dot/AHAL-V2)** | AI-powered developer intelligence. Agents that read a codebase, understand what's in it, and automate the parts of a dev workflow nobody wants to do by hand. Second generation — the rewrite of [AHAL-AI](https://github.com/bsrikumar855-dot/AHAL-AI) after the first version taught me what the architecture should have been. |
+| **[CCTV-live-Monitoring](https://github.com/bsrikumar855-dot/CCTV-live-Monitoring)** | Real-time detection over live camera feeds. Latency and dropped frames are the actual problem — the model is the easy part. Python, OpenCV. |
+| **[Vidiyal-UI-UX](https://github.com/bsrikumar855-dot/Vidiyal-UI-UX)** | A modern design system in TypeScript and React, built so the interface layer stops being an afterthought on my AI projects. |
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**AI / ML**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-**Frameworks & Backend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+The rest — experiments, tools and one-offs — are on
+[GitHub](https://github.com/bsrikumar855-dot?tab=repositories) and the
+[portfolio](https://shreekumardev.netlify.app/) if you want the full list.
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                          CURRENT FOCUS MAP                            -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+### What building these actually taught me
 
-## 🚀 Current Focus
+**A model that can't be checked can't be trusted with a grade.** Early GradeMIND scored
+confidently and wrongly, and confidently-wrong is the one failure mode a teacher will never
+forgive. The fix wasn't a better prompt — it was making every mark traceable to a line in the
+rubric, and refusing to emit one that isn't.
 
-```mermaid
-mindmap
-  root((Shreekumar))
-    Building
-      GradeMIND
-      AHAL Agents
-      PRYSM
-    Learning
-      System Design
-      LLM Engineering
-      Advanced Python
-    Domains
-      EdTech
-      AI Agents
-      Automation
-```
+**Compliance decays quietly.** A system that passed an audit in January can drift by March and
+nothing announces it. That's the whole reason PRYSM is continuous — the failures worth catching
+are the ones nobody is watching for.
+
+**The second version is where the design happens.** AHAL-AI worked, but every new capability
+fought the structure. Rewriting it as AHAL-V2 cost less than another six months of working
+around the first architecture.
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                         GITHUB STATS                                  -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+### How my systems run
 
-## 📊 GitHub Activity
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./pipeline-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./pipeline-light.svg">
+  <img alt="Pipeline: answer sheet, vision and OCR, rubric grounding, LLM reasoning, validator, score and feedback, with a repair loop" src="./pipeline-dark.svg">
+</picture>
 
-<div align="center">
-
-<img width="49%" src="https://streak-stats.demolab.com/?user=bsrikumar855-dot&theme=tokyonight&hide_border=true&border_radius=10" />
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsrikumar855-dot&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" />
-
-<br/><br/>
-
-[![Shreekumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bsrikumar855-dot&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/bsrikumar855-dot)
-
-</div>
+Input gets parsed, grounded against the rules that apply to it, reasoned over, and then checked.
+If the check fails, it loops back and repairs rather than shipping. The validator is the part
+that makes the rest of it usable by someone who isn't me.
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                           CONNECT SECTION                             -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+### Working with
 
-## 🌐 Let's Connect
+`Python` · `TypeScript` · `JavaScript` · `FastAPI` · `Node.js` · `React` · `OpenCV` · `LangChain` · `LLM APIs` · `RAG` · `AI agents` · `PostgreSQL` · `MySQL` · `Docker` · `GitHub Actions` · `HTML/CSS` · `Git`
 
-<div align="center">
+Currently levelling up on system design and production-grade LLM pipelines.
 
-I'm always up for talking about **AI agents, EdTech, or building things that ship.**
-Open to collaborations, internships, and interesting problems.
+---
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bsrikumar855-dot/bsrikumar855-dot/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bsrikumar855-dot/bsrikumar855-dot/output/snake-light.svg">
+  <img alt="Contribution graph rendered as a snake" src="https://raw.githubusercontent.com/bsrikumar855-dot/bsrikumar855-dot/output/snake-light.svg">
+</picture>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shreekumardev.netlify.app-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shreekumardev.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shreekumar_B-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreekumar-b-103922381/)
-[![Email](https://img.shields.io/badge/Email-bsrikumar855@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsrikumar855@gmail.com)
+---
 
-<br/>
+[Portfolio](https://shreekumardev.netlify.app/) · [LinkedIn](https://linkedin.com/in/shreekumar-b-103922381/) · bsrikumar855@gmail.com
 
-> *"If you want to crack the system, first understand the system."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%" />
-
-**⭐ If any of my projects help you, a star means a lot — it keeps me building.**
-
-</div>
+> *If you want to crack the system, first understand the system.*
