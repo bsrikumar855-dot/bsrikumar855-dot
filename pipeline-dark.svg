@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Pipeline: answer sheet, vision and OCR, rubric grounding, LLM reasoning, validator, score and feedback, with a repair loop">
+<rect width="1200" height="300" fill="#0d1117"/>
+<defs><marker id="ah" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#30363d"/></marker><marker id="ahr" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 z" fill="#3fb950"/></marker></defs>
+<text x="40" y="44" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#8b949e" letter-spacing="1.5">HOW MY SYSTEMS RUN</text>
+<line x1="40" y1="60" x2="1160" y2="60" stroke="#30363d" stroke-width="1"/>
+<rect x="45" y="96" width="150" height="78" rx="10" fill="#161b22" stroke="#d29922" stroke-width="1.3"/>
+<text x="120.0" y="131.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13.5" fill="#e6edf3">answer</text>
+<text x="120.0" y="148.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13.5" fill="#e6edf3">sheet</text>
+<line x1="203" y1="135.0" x2="227" y2="135.0" stroke="#30363d" stroke-width="1.5" marker-end="url(#ah)"/>
+<rect x="237" y="96" width="150" height="78" rx="10" fill="#161b22" stroke="#bc8cff" stroke-width="1.3"/>
+<text x="312.0" y="131.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13.5" fill="#e6edf3">vision +</text>
+<text x="312.0" y="148.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13.5" fill="#e6edf3">OCR</text>
+<line x1="395" y1="135.0" x2="419" y2="135.0" stroke="#30363d" stroke-width="1.5" marker-end="url(#ah)"/>
+<rect x="429" y="96" width="150" height="78" rx="10" fill="#161b22" stroke="#58a6ff" stroke-width="1.3"/>
+<text x="504.0" y="131.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13.5" fill="#e6edf3">rubric</text>
+<text x="504.0" y="148.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13.5" fill="#e6edf3">grounding</text>
+<line x1="587" y1="135.0" x2="611" y2="135.0" stroke="#30363d" stroke-width="1.5" marker-end="url(#ah)"/>
+<rect x="621" y="96" width="150" height="78" rx="10" fill="#161b22" stroke="#58a6ff" stroke-width="1.3"/>
+<text x="696.0" y="131.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13.5" fill="#e6edf3">LLM</text>
+<text x="696.0" y="148.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13.5" fill="#e6edf3">reasoning</text>
+<line x1="779" y1="135.0" x2="803" y2="135.0" stroke="#30363d" stroke-width="1.5" marker-end="url(#ah)"/>
+<rect x="813" y="96" width="150" height="78" rx="10" fill="#161b22" stroke="#3fb950" stroke-width="1.3"/>
+<text x="888.0" y="140.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13.5" fill="#e6edf3">validator</text>
+<line x1="971" y1="135.0" x2="995" y2="135.0" stroke="#30363d" stroke-width="1.5" marker-end="url(#ah)"/>
+<rect x="1005" y="96" width="150" height="78" rx="10" fill="#161b22" stroke="#f778ba" stroke-width="1.3"/>
+<text x="1080.0" y="131.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13.5" fill="#e6edf3">score +</text>
+<text x="1080.0" y="148.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13.5" fill="#e6edf3">feedback</text>
+<path d="M 888.0 174 V 218 H 696.0 V 182" fill="none" stroke="#3fb950" stroke-width="1.5" stroke-dasharray="5 4" marker-end="url(#ahr)"/>
+<text x="792.0" y="236" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#3fb950">fails the check → repair → re-run</text>
+<text x="600.0" y="282" text-anchor="middle" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#8b949e">Nothing reaches a human until the checker signs off on it.</text>
+</svg>
