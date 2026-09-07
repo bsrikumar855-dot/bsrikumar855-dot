@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Pipeline: answer sheet, extraction, rubric, reasoning, evidence, confidence, validator, released mark, with a repair loop">
+<rect width="1000" height="300" rx="6" fill="#0d1117"/>
+<line x1="0" y1="0" x2="0" y2="300" stroke="#161b22" stroke-width="1"/>
+<line x1="40" y1="0" x2="40" y2="300" stroke="#161b22" stroke-width="1"/>
+<line x1="80" y1="0" x2="80" y2="300" stroke="#161b22" stroke-width="1"/>
+<line x1="120" y1="0" x2="120" y2="300" stroke="#161b22" stroke-width="1"/>
+<line x1="160" y1="0" x2="160" y2="300" stroke="#161b22" stroke-width="1"/>
+<line x1="200" y1="0" x2="200" y2="300" stroke="#161b22" stroke-width="1"/>
+<line x1="240" y1="0" x2="240" y2="300" stroke="#161b22" stroke-width="1"/>
+<line x1="280" y1="0" x2="280" y2="300" stroke="#161b22" stroke-width="1"/>
+<line x1="320" y1="0" x2="320" y2="300" stroke="#161b22" stroke-width="1"/>
+<line x1="360" y1="0" x2="360" y2="300" stroke="#161b22" stroke-width="1"/>
+<line x1="400" y1="0" x2="400" y2="300" stroke="#161b22" stroke-width="1"/>
+<line x1="440" y1="0" x2="440" y2="300" stroke="#161b22" stroke-width="1"/>
+<line x1="480" y1="0" x2="480" y2="300" stroke="#161b22" stroke-width="1"/>
+<line x1="520" y1="0" x2="520" y2="300" stroke="#161b22" stroke-width="1"/>
+<line x1="560" y1="0" x2="560" y2="300" stroke="#161b22" stroke-width="1"/>
+<line x1="600" y1="0" x2="600" y2="300" stroke="#161b22" stroke-width="1"/>
+<line x1="640" y1="0" x2="640" y2="300" stroke="#161b22" stroke-width="1"/>
+<line x1="680" y1="0" x2="680" y2="300" stroke="#161b22" stroke-width="1"/>
+<line x1="720" y1="0" x2="720" y2="300" stroke="#161b22" stroke-width="1"/>
+<line x1="760" y1="0" x2="760" y2="300" stroke="#161b22" stroke-width="1"/>
+<line x1="800" y1="0" x2="800" y2="300" stroke="#161b22" stroke-width="1"/>
+<line x1="840" y1="0" x2="840" y2="300" stroke="#161b22" stroke-width="1"/>
+<line x1="880" y1="0" x2="880" y2="300" stroke="#161b22" stroke-width="1"/>
+<line x1="920" y1="0" x2="920" y2="300" stroke="#161b22" stroke-width="1"/>
+<line x1="960" y1="0" x2="960" y2="300" stroke="#161b22" stroke-width="1"/>
+<line x1="0" y1="0" x2="1000" y2="0" stroke="#161b22" stroke-width="1"/>
+<line x1="0" y1="40" x2="1000" y2="40" stroke="#161b22" stroke-width="1"/>
+<line x1="0" y1="80" x2="1000" y2="80" stroke="#161b22" stroke-width="1"/>
+<line x1="0" y1="120" x2="1000" y2="120" stroke="#161b22" stroke-width="1"/>
+<line x1="0" y1="160" x2="1000" y2="160" stroke="#161b22" stroke-width="1"/>
+<line x1="0" y1="200" x2="1000" y2="200" stroke="#161b22" stroke-width="1"/>
+<line x1="0" y1="240" x2="1000" y2="240" stroke="#161b22" stroke-width="1"/>
+<line x1="0" y1="280" x2="1000" y2="280" stroke="#161b22" stroke-width="1"/>
+<path d="M22 40 L22 22 L40 22" stroke="#58a6ff" stroke-width="1.5" fill="none" opacity=".8"/>
+<path d="M978 40 L978 22 L960 22" stroke="#58a6ff" stroke-width="1.5" fill="none" opacity=".8"/>
+<path d="M22 260 L22 278 L40 278" stroke="#58a6ff" stroke-width="1.5" fill="none" opacity=".8"/>
+<path d="M978 260 L978 278 L960 278" stroke="#58a6ff" stroke-width="1.5" fill="none" opacity=".8"/>
+<path d="M316,146 L366,56 M486,56 L556,146" fill="none" stroke="#58a6ff" stroke-width="1" opacity=".35" stroke-dasharray="4 5"><animate attributeName="stroke-dashoffset" values="18;0" dur="1.4s" begin="0.00s" repeatCount="indefinite"/></path>
+<path d="M316,146 L366,108 M486,108 L556,146" fill="none" stroke="#58a6ff" stroke-width="1" opacity=".35" stroke-dasharray="4 5"><animate attributeName="stroke-dashoffset" values="18;0" dur="1.4s" begin="0.18s" repeatCount="indefinite"/></path>
+<path d="M316,146 L366,160 M486,160 L556,146" fill="none" stroke="#58a6ff" stroke-width="1" opacity=".35" stroke-dasharray="4 5"><animate attributeName="stroke-dashoffset" values="18;0" dur="1.4s" begin="0.36s" repeatCount="indefinite"/></path>
+<path d="M316,146 L366,212 M486,212 L556,146" fill="none" stroke="#58a6ff" stroke-width="1" opacity=".35" stroke-dasharray="4 5"><animate attributeName="stroke-dashoffset" values="18;0" dur="1.4s" begin="0.54s" repeatCount="indefinite"/></path>
+<path d="M146,146 L186,146" stroke="#58a6ff" stroke-width="1" opacity=".45" stroke-dasharray="4 5"><animate attributeName="stroke-dashoffset" values="18;0" dur="1.4s" repeatCount="indefinite"/></path>
+<path d="M686,146 L746,146" stroke="#58a6ff" stroke-width="1" opacity=".45" stroke-dasharray="4 5"><animate attributeName="stroke-dashoffset" values="18;0" dur="1.4s" repeatCount="indefinite"/></path>
+<path d="M621,170 L621,258 L340,258 L340,108 L366,108" fill="none" stroke="#39d353" stroke-width="1" opacity=".5" stroke-dasharray="4 5"><animate attributeName="stroke-dashoffset" values="0;18" dur="1.4s" repeatCount="indefinite"/></path>
+<circle r="3.5" fill="#39d353" opacity="0"><animateMotion path="M621,170 L621,258 L340,258 L340,108 L366,108" dur="2.6s" begin="1.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.9;1" dur="2.6s" begin="1.2s" repeatCount="indefinite"/></circle>
+<text x="500" y="250" text-anchor="middle" font-family="ui-monospace,monospace" font-size="8.5" letter-spacing="1.1" fill="#7d8590">CAN&#8217;T JUSTIFY IT  &#8594;  REPAIR  &#8594;  RE-RUN</text>
+<rect x="36" y="124" width="110" height="44" rx="5" fill="#0d1117" stroke="#30363d" stroke-width="1.2"/>
+<text x="91.0" y="146" text-anchor="middle" font-family="Georgia,serif" font-size="13.5" font-weight="600" fill="#e6edf3">Script</text>
+<text x="91.0" y="159" text-anchor="middle" font-family="ui-monospace,monospace" font-size="8" fill="#7d8590">SCANNED</text>
+<rect x="186" y="122" width="130" height="48" rx="5" fill="#0d1117" stroke="#58a6ff" stroke-width="1.2"/>
+<text x="251.0" y="146" text-anchor="middle" font-family="Georgia,serif" font-size="13.5" font-weight="600" fill="#e6edf3">Extract</text>
+<text x="251.0" y="159" text-anchor="middle" font-family="ui-monospace,monospace" font-size="8" fill="#7d8590">VISION + OCR</text>
+<rect x="366" y="38.0" width="120" height="36" rx="5" fill="#0d1117" stroke="#30363d" stroke-width="1.2"/>
+<text x="426.0" y="60" text-anchor="middle" font-family="Georgia,serif" font-size="13.5" font-weight="600" fill="#e6edf3">Rubric</text>
+<rect x="366" y="90.0" width="120" height="36" rx="5" fill="#0d1117" stroke="#30363d" stroke-width="1.2"/>
+<text x="426.0" y="112" text-anchor="middle" font-family="Georgia,serif" font-size="13.5" font-weight="600" fill="#e6edf3">Reasoning</text>
+<rect x="366" y="142.0" width="120" height="36" rx="5" fill="#0d1117" stroke="#30363d" stroke-width="1.2"/>
+<text x="426.0" y="164" text-anchor="middle" font-family="Georgia,serif" font-size="13.5" font-weight="600" fill="#e6edf3">Evidence</text>
+<rect x="366" y="194.0" width="120" height="36" rx="5" fill="#0d1117" stroke="#30363d" stroke-width="1.2"/>
+<text x="426.0" y="216" text-anchor="middle" font-family="Georgia,serif" font-size="13.5" font-weight="600" fill="#e6edf3">Confidence</text>
+<rect x="556" y="122" width="130" height="48" rx="5" fill="#0d1117" stroke="#58a6ff" stroke-width="1.2"/>
+<text x="621.0" y="146" text-anchor="middle" font-family="Georgia,serif" font-size="13.5" font-weight="600" fill="#e6edf3">Validate</text>
+<text x="621.0" y="159" text-anchor="middle" font-family="ui-monospace,monospace" font-size="8" fill="#7d8590">AGAINST RUBRIC</text>
+<rect x="746" y="124" width="120" height="44" rx="5" fill="#0d1117" stroke="#30363d" stroke-width="1.2"/>
+<text x="806.0" y="146" text-anchor="middle" font-family="Georgia,serif" font-size="13.5" font-weight="600" fill="#e6edf3">Mark</text>
+<text x="806.0" y="159" text-anchor="middle" font-family="ui-monospace,monospace" font-size="8" fill="#7d8590">EXPLAINED</text>
+<circle r="4" fill="#39d353" opacity="0"><animateMotion path="M146,146 L316,146 L366,56 L486,56 L556,146 L746,146" dur="4.0s" begin="0.00s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.06;0.94;1" dur="4.0s" begin="0.00s" repeatCount="indefinite"/></circle>
+<circle r="4" fill="#39d353" opacity="0"><animateMotion path="M146,146 L316,146 L366,108 L486,108 L556,146 L746,146" dur="4.0s" begin="0.50s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.06;0.94;1" dur="4.0s" begin="0.50s" repeatCount="indefinite"/></circle>
+<circle r="4" fill="#39d353" opacity="0"><animateMotion path="M146,146 L316,146 L366,160 L486,160 L556,146 L746,146" dur="4.0s" begin="1.00s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.06;0.94;1" dur="4.0s" begin="1.00s" repeatCount="indefinite"/></circle>
+<circle r="4" fill="#39d353" opacity="0"><animateMotion path="M146,146 L316,146 L366,212 L486,212 L556,146 L746,146" dur="4.0s" begin="1.50s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.06;0.94;1" dur="4.0s" begin="1.50s" repeatCount="indefinite"/></circle>
+<text x="500.0" y="286" text-anchor="middle" font-family="ui-monospace,monospace" font-size="9" letter-spacing="1.5" fill="#7d8590">EXTRACT  ·  GROUND  ·  REASON  ·  VALIDATE  ·  RELEASE</text>
+</svg>

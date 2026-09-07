@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 380" width="1000" height="380" role="img" aria-label="Capability map: AI agents, LLM engineering, backend and APIs, computer vision, full stack, automation">
+<rect width="1000" height="380" rx="6" fill="#ffffff"/>
+<line x1="0" y1="0" x2="0" y2="380" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="40" y1="0" x2="40" y2="380" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="80" y1="0" x2="80" y2="380" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="120" y1="0" x2="120" y2="380" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="160" y1="0" x2="160" y2="380" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="200" y1="0" x2="200" y2="380" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="240" y1="0" x2="240" y2="380" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="280" y1="0" x2="280" y2="380" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="320" y1="0" x2="320" y2="380" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="360" y1="0" x2="360" y2="380" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="400" y1="0" x2="400" y2="380" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="440" y1="0" x2="440" y2="380" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="480" y1="0" x2="480" y2="380" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="520" y1="0" x2="520" y2="380" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="560" y1="0" x2="560" y2="380" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="600" y1="0" x2="600" y2="380" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="640" y1="0" x2="640" y2="380" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="680" y1="0" x2="680" y2="380" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="720" y1="0" x2="720" y2="380" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="760" y1="0" x2="760" y2="380" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="800" y1="0" x2="800" y2="380" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="840" y1="0" x2="840" y2="380" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="880" y1="0" x2="880" y2="380" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="920" y1="0" x2="920" y2="380" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="960" y1="0" x2="960" y2="380" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="0" y1="0" x2="1000" y2="0" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="0" y1="40" x2="1000" y2="40" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="0" y1="80" x2="1000" y2="80" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="0" y1="120" x2="1000" y2="120" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="0" y1="160" x2="1000" y2="160" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="0" y1="200" x2="1000" y2="200" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="0" y1="240" x2="1000" y2="240" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="0" y1="280" x2="1000" y2="280" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="0" y1="320" x2="1000" y2="320" stroke="#f6f8fa" stroke-width="1"/>
+<line x1="0" y1="360" x2="1000" y2="360" stroke="#f6f8fa" stroke-width="1"/>
+<path d="M22 40 L22 22 L40 22" stroke="#0969da" stroke-width="1.5" fill="none" opacity=".8"/>
+<path d="M978 40 L978 22 L960 22" stroke="#0969da" stroke-width="1.5" fill="none" opacity=".8"/>
+<path d="M22 340 L22 358 L40 358" stroke="#0969da" stroke-width="1.5" fill="none" opacity=".8"/>
+<path d="M978 340 L978 358 L960 358" stroke="#0969da" stroke-width="1.5" fill="none" opacity=".8"/>
+<line x1="500" y1="186" x2="500.0" y2="82.0" stroke="#0969da" stroke-width="1" opacity=".42" stroke-dasharray="5 6"><animate attributeName="stroke-dashoffset" values="22;0" dur="1.6s" begin="0.00s" repeatCount="indefinite"/></line>
+<line x1="500" y1="186" x2="768.0" y2="128.2" stroke="#0969da" stroke-width="1" opacity=".42" stroke-dasharray="5 6"><animate attributeName="stroke-dashoffset" values="22;0" dur="1.6s" begin="0.22s" repeatCount="indefinite"/></line>
+<line x1="500" y1="186" x2="768.0" y2="243.8" stroke="#0969da" stroke-width="1" opacity=".42" stroke-dasharray="5 6"><animate attributeName="stroke-dashoffset" values="22;0" dur="1.6s" begin="0.44s" repeatCount="indefinite"/></line>
+<line x1="500" y1="186" x2="500.0" y2="290.0" stroke="#0969da" stroke-width="1" opacity=".42" stroke-dasharray="5 6"><animate attributeName="stroke-dashoffset" values="22;0" dur="1.6s" begin="0.66s" repeatCount="indefinite"/></line>
+<line x1="500" y1="186" x2="232.0" y2="243.8" stroke="#0969da" stroke-width="1" opacity=".42" stroke-dasharray="5 6"><animate attributeName="stroke-dashoffset" values="22;0" dur="1.6s" begin="0.88s" repeatCount="indefinite"/></line>
+<line x1="500" y1="186" x2="232.0" y2="128.2" stroke="#0969da" stroke-width="1" opacity=".42" stroke-dasharray="5 6"><animate attributeName="stroke-dashoffset" values="22;0" dur="1.6s" begin="1.10s" repeatCount="indefinite"/></line>
+<circle cx="500" cy="186" r="40" fill="#ffffff" stroke="#0969da" stroke-width="1.4"/>
+<circle cx="500" cy="186" r="40" fill="none" stroke="#0969da" stroke-width="1"><animate attributeName="r" values="40;64" dur="3.2s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;0" dur="3.2s" repeatCount="indefinite"/></circle>
+<text x="500" y="184" text-anchor="middle" font-family="Georgia,serif" font-size="17" font-weight="700" fill="#1f2328">build</text>
+<text x="500" y="201" text-anchor="middle" font-family="ui-monospace,monospace" font-size="8" letter-spacing="1.6" fill="#59636e">THEN VERIFY</text>
+<circle cx="500.0" cy="62.0" r="6" fill="#216e39"><animate attributeName="r" values="6;8.5;6" dur="2.8s" begin="0.00s" repeatCount="indefinite"/></circle>
+<circle cx="500.0" cy="62.0" r="6" fill="none" stroke="#216e39" stroke-width="1"><animate attributeName="r" values="6;18" dur="2.8s" begin="0.00s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0" dur="2.8s" begin="0.00s" repeatCount="indefinite"/></circle>
+<text x="500.0" y="38.0" text-anchor="middle" font-family="Georgia,serif" font-size="15" font-weight="600" fill="#1f2328">AI Agents</text>
+<text x="500.0" y="53.0" text-anchor="middle" font-family="ui-monospace,monospace" font-size="9" fill="#59636e">routing · tool use · RAG</text>
+<circle cx="787.5" cy="124.0" r="6" fill="#216e39"><animate attributeName="r" values="6;8.5;6" dur="2.8s" begin="0.35s" repeatCount="indefinite"/></circle>
+<circle cx="787.5" cy="124.0" r="6" fill="none" stroke="#216e39" stroke-width="1"><animate attributeName="r" values="6;18" dur="2.8s" begin="0.35s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0" dur="2.8s" begin="0.35s" repeatCount="indefinite"/></circle>
+<text x="803.5" y="128.0" text-anchor="start" font-family="Georgia,serif" font-size="15" font-weight="600" fill="#1f2328">LLM Engineering</text>
+<text x="803.5" y="143.0" text-anchor="start" font-family="ui-monospace,monospace" font-size="9" fill="#59636e">OpenAI · Gemini · LangChain</text>
+<circle cx="787.5" cy="248.0" r="6" fill="#216e39"><animate attributeName="r" values="6;8.5;6" dur="2.8s" begin="0.70s" repeatCount="indefinite"/></circle>
+<circle cx="787.5" cy="248.0" r="6" fill="none" stroke="#216e39" stroke-width="1"><animate attributeName="r" values="6;18" dur="2.8s" begin="0.70s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0" dur="2.8s" begin="0.70s" repeatCount="indefinite"/></circle>
+<text x="803.5" y="252.0" text-anchor="start" font-family="Georgia,serif" font-size="15" font-weight="600" fill="#1f2328">Backend &amp; APIs</text>
+<text x="803.5" y="267.0" text-anchor="start" font-family="ui-monospace,monospace" font-size="9" fill="#59636e">FastAPI · Node · SQL</text>
+<circle cx="500.0" cy="310.0" r="6" fill="#216e39"><animate attributeName="r" values="6;8.5;6" dur="2.8s" begin="1.05s" repeatCount="indefinite"/></circle>
+<circle cx="500.0" cy="310.0" r="6" fill="none" stroke="#216e39" stroke-width="1"><animate attributeName="r" values="6;18" dur="2.8s" begin="1.05s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0" dur="2.8s" begin="1.05s" repeatCount="indefinite"/></circle>
+<text x="500.0" y="342.0" text-anchor="middle" font-family="Georgia,serif" font-size="15" font-weight="600" fill="#1f2328">Computer Vision</text>
+<text x="500.0" y="357.0" text-anchor="middle" font-family="ui-monospace,monospace" font-size="9" fill="#59636e">OpenCV · OCR · detection</text>
+<circle cx="212.5" cy="248.0" r="6" fill="#216e39"><animate attributeName="r" values="6;8.5;6" dur="2.8s" begin="1.40s" repeatCount="indefinite"/></circle>
+<circle cx="212.5" cy="248.0" r="6" fill="none" stroke="#216e39" stroke-width="1"><animate attributeName="r" values="6;18" dur="2.8s" begin="1.40s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0" dur="2.8s" begin="1.40s" repeatCount="indefinite"/></circle>
+<text x="196.5" y="252.0" text-anchor="end" font-family="Georgia,serif" font-size="15" font-weight="600" fill="#1f2328">Full Stack</text>
+<text x="196.5" y="267.0" text-anchor="end" font-family="ui-monospace,monospace" font-size="9" fill="#59636e">React · TypeScript</text>
+<circle cx="212.5" cy="124.0" r="6" fill="#216e39"><animate attributeName="r" values="6;8.5;6" dur="2.8s" begin="1.75s" repeatCount="indefinite"/></circle>
+<circle cx="212.5" cy="124.0" r="6" fill="none" stroke="#216e39" stroke-width="1"><animate attributeName="r" values="6;18" dur="2.8s" begin="1.75s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0" dur="2.8s" begin="1.75s" repeatCount="indefinite"/></circle>
+<text x="196.5" y="128.0" text-anchor="end" font-family="Georgia,serif" font-size="15" font-weight="600" fill="#1f2328">Automation</text>
+<text x="196.5" y="143.0" text-anchor="end" font-family="ui-monospace,monospace" font-size="9" fill="#59636e">GitHub Actions · Python</text>
+</svg>
