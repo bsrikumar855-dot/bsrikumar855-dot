@@ -6,7 +6,7 @@
 
 AI & Data Science student in India, building AI systems that other people actually use — agents
 that read, decide and act, the backends that serve them, and the checks that stop them shipping
-something wrong. Most of my work sits somewhere between education technology, developer tooling
+something wrong  Most of my work sits somewhere between education technology, developer tooling
 and computer vision. I'd rather understand a problem properly than reach for a model first.
 
 ---
