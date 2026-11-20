@@ -6,8 +6,8 @@
 
 AI & Data Science student in India, building AI systems that other people actually use — agents
 that read, decide and act, the backends that serve them, and the checks that stop them shipping
-something wrong  Most of my work sits somewhere between education technology, developer tooling
-and computer vision. I'd rather understand a problem properly than reach for a model first
+something wrong. Most of my work sits somewhere between education technology, developer tooling
+and computer vision. I'd rather understand a problem properly than reach for a model first.
 
 ---
 
@@ -27,7 +27,7 @@ before answering. A developer-intelligence agent that reads a codebase and autom
 parts of a dev workflow, a compliance system that watches AI behaviour continuously instead of
 auditing it once, and a grading engine that has to defend every mark it gives.
 
-**EdTech** — **GradeMIND** is the flagship. Handwritten answer sheets in, structured evaluation
+**EdTech** — **GradeMIND** is the main one. Handwritten answer sheets in, structured evaluation
 out, built for real classrooms rather than a demo dataset. The hard part was never the OCR; it
 was making the score explainable enough that a teacher would trust it.
 
@@ -43,31 +43,30 @@ do by hand twice a week.
 
 ### Running right now
 
-**GradeMIND** — AI-powered answer sheet validation for educators. A scanned script goes through
-vision and OCR, gets grounded against the actual rubric, is reasoned over by a model, and then
-has to clear a validator before any mark is released. The interesting part is the failure path:
-an answer the system can't justify against the rubric doesn't get a silent guess, it gets
-flagged for the teacher. Grading that can't explain itself is worse than no grading at all.
+**PRYSM** — a continuous AI compliance operating system. Most compliance is a one-time audit that
+goes stale the day after it passes; PRYSM treats it as a running process, monitoring AI behaviour
+continuously and enforcing policy while the system is live, not after. The point is that a system
+which passed review in January can drift by March, and nothing announces it unless something is
+watching.
 
-In active development · `Python` · computer vision + LLM reasoning · built for classrooms
+In active development · `TypeScript` · continuous monitoring + policy enforcement
 
 ---
 
 ### Selected work
 
-Five, on purpose — not a repo index. Each one exists to prove something different.
+Four, on purpose — not a repo index. Each one exists to prove something different.
 
 | | |
 |---|---|
-| **GradeMIND** | AI answer sheet validation for educators. Handwriting to structured evaluation, with a rubric-grounded validator between the model and the mark. Flagship, in active development. |
-| **[PRYSM](https://github.com/bsrikumar855-dot/PRYSM---Continuous-AI-Compilance-Operating-System)** | A continuous AI compliance operating system. Most compliance is a one-time audit that goes stale the day after it passes; PRYSM treats it as a running process — monitoring AI behaviour continuously and enforcing policy while the system is live, not after. TypeScript. |
-| **[AHAL-V2](https://github.com/bsrikumar855-dot/AHAL-V2)** | AI-powered developer intelligence. Agents that read a codebase, understand what's in it, and automate the parts of a dev workflow nobody wants to do by hand. Second generation — the rewrite of [AHAL-AI](https://github.com/bsrikumar855-dot/AHAL-AI) after the first version taught me what the architecture should have been. |
-| **[CCTV-live-Monitoring](https://github.com/bsrikumar855-dot/CCTV-live-Monitoring)** | Real-time detection over live camera feeds. Latency and dropped frames are the actual problem — the model is the easy part. Python, OpenCV. |
-| **[Vidiyal-UI-UX](https://github.com/bsrikumar855-dot/Vidiyal-UI-UX)** | A modern design system in TypeScript and React, built so the interface layer stops being an afterthought on my AI projects. |
+| **[PRYSM](https://github.com/bsrikumar855-dot/PRYSM)** | A continuous AI compliance operating system. Most compliance is a one-time audit that goes stale the day after it passes; PRYSM treats it as a running process — monitoring AI behaviour continuously and enforcing policy while the system is live, not after. TypeScript. Flagship, in active development. |
+| **GradeMIND** | AI answer sheet validation for educators. Handwriting to structured evaluation, with a rubric-grounded validator between the model and the mark. |
+| **UNBLUFF** | Placement-preparation tool, built as a Prompt Wars hackathon entry in a 4-hour build. |
+| **[DriftCheck](https://www.npmjs.com/package/@shreekumar007/driftcheck)** | A TypeScript CLI that checks a live deployment actually works, beyond the build succeeding. Published to npm. |
 
 The rest — experiments, tools and one-offs — are on
 [GitHub](https://github.com/bsrikumar855-dot?tab=repositories) and the
-[portfolio](https://shreekumardev.netlify.app/) if you want the full list.
+[portfolio](https://shreekumar.vercel.app/) if you want the full list.
 
 ---
 
@@ -118,6 +117,6 @@ Currently levelling up on system design and production-grade LLM pipelines.
 
 ---
 
-[Portfolio](https://shreekumardev.netlify.app/) · [LinkedIn](https://linkedin.com/in/shreekumar-b-103922381/) · bsrikumar855@gmail.com
+[Portfolio](https://shreekumar.vercel.app/) · [LinkedIn](https://linkedin.com/in/shreekumar-b-103922381/) · bsrikumar855@gmail.com
 
 > *If you want to crack the system, first understand the system.*
