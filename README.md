@@ -66,7 +66,7 @@ Four, on purpose — not a repo index. Each one exists to prove something differ
 
 The rest — experiments, tools and one-offs — are on
 [GitHub](https://github.com/bsrikumar855-dot?tab=repositories) and the
-[portfolio](https://shreekumar.vercel.app/) if you want the full list.
+[portfolio](https://shreekumarb.vercel.app/) if you want the full list.
 
 ---
 
