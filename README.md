@@ -110,9 +110,9 @@ Currently levelling up on system design and production-grade LLM pipelines.
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bsrikumar855-dot/bsrikumar855-dot/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bsrikumar855-dot/bsrikumar855-dot/output/snake-light.svg">
-  <img alt="Contribution graph rendered as a snake" src="https://raw.githubusercontent.com/bsrikumar855-dot/bsrikumar855-dot/output/snake-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bsrikumar855-dot/bsrikumar855-dot/output/snake-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bsrikumar855-dot/bsrikumar855-dot/output/snake-light.svg?v=2">
+  <img alt="Contribution graph rendered as a snake" src="https://raw.githubusercontent.com/bsrikumar855-dot/bsrikumar855-dot/output/snake-light.svg?v=2">
 </picture>
 
 ---
