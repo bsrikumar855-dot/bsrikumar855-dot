@@ -117,6 +117,6 @@ Currently levelling up on system design and production-grade LLM pipelines.
 
 ---
 
-[Portfolio](https://shreekumar.vercel.app/) · [LinkedIn](https://linkedin.com/in/shreekumar-b-103922381/) · bsrikumar855@gmail.com
+[Portfolio](https://shreekumarb.vercel.app/) · [LinkedIn](https://linkedin.com/in/shreekumar-b-103922381/) · bsrikumar855@gmail.com
 
 > *If you want to crack the system, first understand the system.*
